@@ -1,0 +1,6 @@
+model,cv_gini,train_gini,test_gini,rank_breaks,beats_benchmark
+Logistic Regression,48.36,54.85,50.8,1,True
+Random Forest,49.66,89.25,50.02,1,True
+XGBoost,49.3,74.64,48.89,2,True
+LightGBM,48.47,75.84,47.18,2,True
+Ensemble,,69.01,49.65,3,True
